@@ -8,4 +8,4 @@ function addWords (color, fruit){
   return color + " " + fruit; // returns "Red Apple"
 }
 
-addWords(color, fruit);
+console.log(addWords(color, fruit));
